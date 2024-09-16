@@ -1,5 +1,5 @@
 # SQL
-Написание запросов и установка Primary key
+Написание запросов и установка Primary key (Для вывода списка всех студентов с различными параметрами запросов)
 ![1](https://github.com/user-attachments/assets/6de521a7-95cb-4317-8db2-608b5cbcf195)
 ![2 ](https://github.com/user-attachments/assets/aeaa1737-cc83-4668-9c5e-11f1c52a4e44)
 ![3](https://github.com/user-attachments/assets/d0a2dc6e-639a-4610-afb9-a94cde21ada0)
